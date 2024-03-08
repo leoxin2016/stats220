@@ -12,7 +12,7 @@ I will save five projects relevant files in this repo, including:
 
 ## Introduction of myself
 
-My name is Leo Xin. This is my third year studying at [University of Auckland](https://www.auckland.ac.nz/en.html). I am majoring in Computer Science. I am enrolled in three papers below: 
+My name is Leo Xin. This is my third year studying at [University of Auckland](https://www.auckland.ac.nz/en.html). I am majoring in Computer Science. I am enrolled in three papers as follows: 
 1. STATS220
 2. COMPSCI373
 3. COMPSCI215
